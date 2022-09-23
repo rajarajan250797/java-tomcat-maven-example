@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World! project checking using CICD</h2>
-  <h3>project2 </h3>
+<h2>project finished.....CICD</h2>
+  <h3>project</h3>
 </body>
 </html>
